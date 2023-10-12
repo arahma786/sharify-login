@@ -3,7 +3,7 @@ import './LoginSignup.css';
 //
 export const LoginSignup = () => {
   const [action, setAction] = useState('Sharify');
-
+//
   return (
     <div className='container'>
       <div className='image-section'></div>
